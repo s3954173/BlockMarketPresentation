@@ -1,0 +1,26 @@
+html {
+font-size: 13px;
+}
+
+body {
+height: 100%;
+background-color: #588ca4;
+font-family: 'Oswald', sans-serif;;
+font-size: 1.6rem;
+line-height: 1;
+text-align: center;
+color: black;
+margin: 500;
+}
+
+img{
+align-items:center;
+border: 5px solid black;
+}
+
+div {
+border:8px solid black;
+border-style: double;
+border-spacing: 15px 50px;
+padding-bottom: 40px;
+}
